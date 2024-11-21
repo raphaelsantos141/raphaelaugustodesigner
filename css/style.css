@@ -92,7 +92,7 @@ a:hover {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(252, 96, 96, 0.9);
+  background-color: rgba(10, 34, 53, 0.7);
   opacity: 0;
   visibility: hidden;
   -webkit-transition-duration: 500ms;
